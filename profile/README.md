@@ -2,4 +2,6 @@
 
 Projects and experiments created using Haskell.
 
-Notably small relative to my actual hour-count spent studying and writing Haskell; a fantastic learning language, but challenging for project work.
+Notably small relative to my actual hour-count spent studying and writing Haskell
+
+(Perhaps this speaks to its status as a fantastic learning language.)
